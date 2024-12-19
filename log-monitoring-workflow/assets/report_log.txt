@@ -1,0 +1,29 @@
+2024-10-09 01:38:56.226430: ALERT: Multiple errors detected within 0:10:00.
+2024-10-09 01:38:57.795394: Alert email sent to sumit.giri199@gmail.com.
+2024-10-09 01:43:40.694194: Errors are under control: {'404 Errors': [], '401 Errors': [], '500 Errors': []}
+2024-10-09 01:44:40.700690: ALERT: Multiple errors detected within 0:10:00.
+2024-10-09 01:44:46.329445: Alert email sent to sumit.giri199@gmail.com.
+2024-10-09 01:45:40.623091: ALERT: Multiple errors detected within 0:10:00.
+2024-10-09 01:45:43.744372: Alert email sent to sumit.giri199@gmail.com.
+2024-10-09 01:46:40.690017: ALERT: Multiple errors detected within 0:10:00.
+2024-10-09 01:46:42.866040: Alert email sent to sumit.giri199@gmail.com.
+2024-10-09 01:55:04.252810: ALERT: Multiple errors detected within 0:10:00.
+2024-10-09 01:55:06.502431: Alert email sent to sumit.giri199@gmail.com.
+2024-10-09 01:56:53.447286: Errors are under control: {'404 Errors': [{'time': datetime.datetime(2024, 10, 9, 1, 46, 57), 'ip': '10.0.2.15'}, {'time': datetime.datetime(2024, 10, 9, 1, 47), 'ip': '10.0.2.15'}, {'time': datetime.datetime(2024, 10, 9, 1, 47, 3), 'ip': '10.0.2.15'}], '401 Errors': [], '500 Errors': []}
+2024-10-09 03:11:34.323852: Errors are under control: {'404 Errors': [], '401 Errors': [], '500 Errors': []}
+2024-10-09 03:12:34.269089: Errors are under control: {'404 Errors': [], '401 Errors': [], '500 Errors': []}
+2024-10-09 03:13:34.219216: Errors are under control: {'404 Errors': [], '401 Errors': [], '500 Errors': []}
+2024-10-09 03:14:34.205773: Errors are under control: {'404 Errors': [], '401 Errors': [], '500 Errors': []}
+2024-10-09 03:15:34.211179: ALERT: Multiple errors detected within 0:10:00.
+2024-10-09 03:15:36.599630: Alert email sent to sumit.giri199@gmail.com.
+2024-10-09 03:16:34.206512: ALERT: Multiple errors detected within 0:10:00.
+2024-10-09 03:16:37.236568: Alert email sent to sumit.giri199@gmail.com.
+2024-10-09 03:17:34.190079: ALERT: Multiple errors detected within 0:10:00.
+2024-10-09 03:17:37.093492: Alert email sent to sumit.giri199@gmail.com.
+2024-10-09 03:18:34.191331: ALERT: Multiple errors detected within 0:10:00.
+2024-10-09 03:18:36.511378: Alert email sent to sumit.giri199@gmail.com.
+2024-10-09 03:20:54.444284: ALERT: Multiple errors detected within 0:10:00.
+2024-10-09 03:20:57.412248: Alert email sent to sumit.giri199@gmail.com.
+2024-12-18 18:53:42.359072: Errors are under control: {'404 Errors': [], '401 Errors': [], '500 Errors': []}
+2024-12-18 18:56:59.841899: Errors are under control: {'404 Errors': [], '401 Errors': [], '500 Errors': []}
+2024-12-18 18:57:10.558245: Log file not found at C:\Users\kakai\Documents\Canada Job Search\Cryptography & CyberSecurity\LHL Bootcamp\test\Linux\linux_log\extracted_log.txt
