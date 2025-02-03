@@ -24,3 +24,4 @@ As an **Access Log Analyst** at Turn a New Leaf, your **primary responsibility**
 ✅ **Provide structured reports** for historical analysis and compliance.  
 
 ****Repository Structure****
+/log-monitoring-workflow │── /logs │ ├── access_logs/ # Extracted server access logs │ ├── alert_logs/ # Alert logs including email notifications │── /scripts │ ├── log_parser.py # Parses and extracts key log data │ ├── anomaly_detector.py # Identifies unusual login activity & HTTP errors │ ├── email_alert.py # Generates and sends alert notifications │── /reports │ ├── weekly_security_report.md # Weekly security report summary │── README.md # Project documentation
