@@ -25,7 +25,7 @@ The purpose of this playbook is to provide a structured response plan for Box, e
 
 This repository contains the following files:
 
-- **/W04 - Playbook for Cat & Box Scenario - Sumit.pdf**: The final project report in PDF format, which includes detailed explanations of the incident response workflow, rationale for decisions, and the key steps taken to develop the playbook.
+- **/Final_Report.pdf**: The final project report in PDF format, which includes detailed explanations of the incident response workflow, rationale for decisions, and the key steps taken to develop the playbook.
 - **/README.md**: This README file, providing an overview of the project, its scenario, context, methodology, and instructions for use.
 
 
