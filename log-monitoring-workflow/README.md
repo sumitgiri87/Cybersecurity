@@ -23,5 +23,49 @@ As an **Access Log Analyst** at Turn a New Leaf, your **primary responsibility**
 ✅ **Send automated alerts** when error thresholds are exceeded.  
 ✅ **Provide structured reports** for historical analysis and compliance.  
 
-****Repository Structure****
-/log-monitoring-workflow │── /logs │ ├── access_logs/ # Extracted server access logs │ ├── alert_logs/ # Alert logs including email notifications │── /scripts │ ├── log_parser.py # Parses and extracts key log data │ ├── anomaly_detector.py # Identifies unusual login activity & HTTP errors │ ├── email_alert.py # Generates and sends alert notifications │── /reports │ ├── weekly_security_report.md # Weekly security report summary │── README.md # Project documentation
+
+****Workflow Structure****  
+
+****1️⃣ Log Extraction (Bash Script)****  
+- A **Bash script** retrieves logs from **Linux access and error logs**.  
+- Extracted logs are stored in the `/logs/access_logs/` directory.  
+
+****2️⃣ Log Analysis & Anomaly Detection (Python Scripts)****  
+- **Python scripts** process logs to identify:  
+  🔹 **Failed login attempts**  
+  🔹 **Unauthorized access (HTTP 401 errors)**  
+  🔹 **Web scraping attempts (HTTP 404 errors)**  
+  🔹 **Server failures (HTTP 500 errors)**  
+- If error thresholds are exceeded, an **alert log** is created in `/logs/alert_logs/`.  
+
+****3️⃣ Automated Alerts & Reporting****  
+- **Email notifications** are sent when security anomalies are detected.  
+- **Weekly reports** summarizing network activity and security risks are generated.  
+
+****Tools & Technologies Used****  
+🛠 **Bash** – Extract logs from Linux servers.  
+🛠 **Python** – Analyze log data for anomalies.  
+🛠 **Cron Jobs** – Automate script execution at scheduled intervals.  
+🛠 **Email Alerts** – Notify administrators of unusual activity.  
+
+****Expected Output****  
+📌 **Real-time alerts** when suspicious activity is detected.  
+📌 **Detailed logs of security events**, including timestamps and affected IP addresses.  
+📌 **Comprehensive weekly reports** summarizing system activity and security insights.  
+
+****Key Features****  
+✔ **Automated Execution:** Cron jobs ensure continuous monitoring.  
+✔ **Historical Data Storage:** Retains records for long-term security analysis.  
+✔ **Scalability:** Potential to integrate **machine learning for anomaly detection**.  
+
+****Potential Enhancements****  
+🔹 Expanding log analysis to include additional **Indicators of Compromise (IoCs)**.  
+🔹 Enhancing **real-time anomaly detection** with **machine learning models**.  
+🔹 Integrating with **SIEM (Security Information and Event Management) solutions**.  
+
+****How to Use This Project****  
+
+****1️⃣ Clone the Repository****  
+```bash
+git clone https://github.com/yourusername/log-monitoring-workflow.git
+cd log-monitoring-workflow
