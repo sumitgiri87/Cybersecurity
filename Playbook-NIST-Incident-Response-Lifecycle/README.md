@@ -23,12 +23,11 @@ The purpose of this playbook is to provide a structured response plan for Box, e
 
 ## Folder Contents
 
-This repository contains the following files and folders:
+This repository contains the following files:
 
-- **/docs**: This folder contains the full project report that includes detailed explanations of the incident response workflow, rationale, and key decisions made in developing the playbook.
-- **/templates**: Contains sample communication templates for both technical and non-technical audiences, including letters to Box (the client) and Cat (the third-party provider).
-- **/playbook**: This folder holds the core playbook document, which outlines the full incident response process, roles, and procedures according to the NIST Incident Response Lifecycle.
-- **/resources**: Includes additional resources such as contact information for all parties involved in the scenario.
+- **/Final_Report.pdf**: The final project report in PDF format, which includes detailed explanations of the incident response workflow, rationale for decisions, and the key steps taken to develop the playbook.
+- **/README.md**: This README file, providing an overview of the project, its scenario, context, methodology, and instructions for use.
+
 
 ## Methodology Followed
 
