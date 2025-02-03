@@ -4,10 +4,8 @@
 This project involves creating a set of policies that align with the NIST 7-step Incident Response process. You will develop high-level policy outlines for various scenarios, referencing specific playbooks for execution. The policies cover critical cybersecurity activities such as malware outbreaks, data breaches, and employee terminations.
 
 ## Folder Contents
-- **Incident Response Plan (PDF)**: The full Incident Response Plan document detailing the process, team structure, and responsibilities for handling incidents.
+- **Incident Response Plan and Policy Set (PDF)**: The full Incident Response Plan document detailing the process, team structure, and responsibilities for handling incidents. Outlines high-level policies based on different playbooks, defining the objectives, security importance, roles, and consequences of non-compliance.
 - **README.md**: This file containing a project summary and important details.
-%- **Policy Set**: Outlines high-level policies based on different playbooks, defining the objectives, security importance, roles, and consequences of non-compliance.
-%- **Slideshow (Google Slides)**: A presentation to communicate the policies to the organization, explaining the “Why” behind each policy and the consequences of non-compliance.
 
 ## Methodology
 1. **NIST 7-Step Incident Response**: The policies and playbooks are based on the NIST 7-step framework, including:
