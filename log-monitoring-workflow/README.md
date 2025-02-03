@@ -63,9 +63,4 @@ As an **Access Log Analyst** at Turn a New Leaf, your **primary responsibility**
 🔹 Enhancing **real-time anomaly detection** with **machine learning models**.  
 🔹 Integrating with **SIEM (Security Information and Event Management) solutions**.  
 
-****How to Use This Project****  
 
-****1️⃣ Clone the Repository****  
-```bash
-git clone https://github.com/yourusername/log-monitoring-workflow.git
-cd log-monitoring-workflow
