@@ -66,6 +66,6 @@ Each project folder contains:
 
 ## Connect with Me
 
-For questions or discussions, feel free to reach out via **[LinkedIn](your-link-here)** or email.
+For questions or discussions, feel free to reach out via **[LinkedIn](https://www.linkedin.com/in/sumit-giri-0111/)** or email.
 
 🔐 Happy exploring, and stay secure! 🚀
