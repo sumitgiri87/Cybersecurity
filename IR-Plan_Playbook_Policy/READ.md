@@ -21,5 +21,5 @@ This project involves creating a set of policies that align with the NIST 7-step
 ## Project Objective
 By the end of this project, you will have created a comprehensive set of policies for incident response scenarios, each aligned with an actionable playbook, and presented them through an educational slideshow.
 
-For more details, refer to the full **Incident Response Plan (PDF)** and the **Google Slides** presentation linked in this repository.
+For more details, refer to the full **Incident Response Plan (PDF)** linked in this repository.
 
