@@ -5,7 +5,7 @@ This repository contains forensic documentation and analysis for **Case 001 – 
 
 ## 📂 Repository Contents
 - **README.md** – This file, providing an overview of the project.
-- **Final Report (PDF/Google Doc)** – The complete forensic investigation report detailing methodology, findings, and recommendations.
+- **Final Report (PDF)** – The complete forensic investigation report detailing methodology, findings, and recommendations.
 
 ## 🔎 Investigation Summary
 This case involved a cybersecurity breach leading to unauthorized access and data exfiltration. Key findings include:
