@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository contains the **Telstra Cybersecurity Job Simulation**, a virtual internship completed through [Forage](https://www.theforage.com/). It simulates real-world security incidents and response strategies within a **Security Operations Centre (SOC)**. 
+This repository contains the **Telstra Cybersecurity Job Simulation**, a virtual internship completed through [Forage](https://www.theforage.com/simulations/telstra/cybersecurity-cyyo). It simulates real-world security incidents and response strategies within a **Security Operations Centre (SOC)**. 
 
 The program consists of **four interconnected tasks**, each focusing on different aspects of cybersecurity, including **incident response, network analysis, malware mitigation, and postmortem reporting**.
 
