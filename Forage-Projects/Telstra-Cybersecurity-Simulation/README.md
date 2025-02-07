@@ -15,8 +15,8 @@ The repository is divided into **four tasks**, each with its own folder for easy
 ### **🔹 Task 1: Responding to a Malware Attack**
 - **Objective:** Triage an incoming malware alert, determine affected infrastructure, and notify the appropriate team.
 - 📂 **Resources Provided:**
-  - **Affected Infrastructure List & Firewall Logs** (in `Resources/` subfolder)
-  - **Incident Notification Template Email** (in `Resources/` subfolder)
+  - **Affected Infrastructure List & Firewall Logs**
+  - **Incident Notification Template Email**
 - 📄 **Key Deliverables:**
   - **Draft_Email.pdf** (Incident Notification Email)
 - 📁 **All resources and deliverables are available in the [Task 1 Folder](https://github.com/sumitgiri87/Cybersecurity/tree/main/Forage-Projects/Telstra-Cybersecurity-Simulation/Task-1_Responding-to-Malware-Attack)**  
