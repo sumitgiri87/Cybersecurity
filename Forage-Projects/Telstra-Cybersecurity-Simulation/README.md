@@ -26,29 +26,40 @@ The repository is divided into **four tasks**, each with its own folder for easy
 
 ### **🔹 Task 2: Analysing the Attack**
 - **Objective:** Investigate the attack patterns using firewall logs to understand how the malware spreads.
-- 📄 **Key Deliverables:**  
-  - Firewall logs  
-  - Spring4Shell PoC Payload  
-  - **Attack_Analysis_Report.pdf**  
-  - **Draft_Email_to_Networks_Team.pdf** (Findings Report)  
-  - **[Task 2 Folder](https://github.com/sumitgiri87/Cybersecurity/tree/main/Forage-Projects/Telstra-Cybersecurity-Simulation/Task-2_Analysing-the-Attack)**  
+- 📂 **Resources Provided:**
+  - **Spring4Shell Proof of Concept Payload**
+  - **Affected Infrastructure List & Firewall Logs**
+  - **Firewall Rule Creation Request Email Template**
+- 📄 **Key Deliverables:**
+  - **Draft_Email_to_Networks_Team.pdf** (Findings Report)
+- 📁 **All resources and deliverables are available in the [Task 2 Folder](https://github.com/sumitgiri87/Cybersecurity/tree/main/Forage-Projects/Telstra-Cybersecurity-Simulation/Task-2_Analysing-the-Attack)**  
+
 
 ---
 
 ### **🔹 Task 3: Mitigating the Malware Attack**
 - **Objective:** Write a **Python-based firewall rule** to mitigate the malware spread based on identified patterns.
+- 📂 **Resources Provided:**
+  - **Spring4Shell Proof of Concept Payload**
+  - **Firewall Starter Codebase**
+  - **Python HTTPServer Documentation**
 - 📄 **Key Deliverables:**  
   - `firewall_server.py` (Python Firewall Rule)  
   - `test_requests.py` (Testing Script)  
-  - **[Task 3 Folder](https://github.com/sumitgiri87/Cybersecurity/tree/main/Forage-Projects/Telstra-Cybersecurity-Simulation/Task-3_Mitigate-the-Malware)**  
+- 📁 **All resources and deliverables are available in the [Task 3 Folder](https://github.com/sumitgiri87/Cybersecurity/tree/main/Forage-Projects/Telstra-Cybersecurity-Simulation/Task-3_Mitigate-the-Malware)**  
+
 
 ---
 
 ### **🔹 Task 4: Incident Postmortem**
 - **Objective:** Create an **incident postmortem** summarizing the incident, findings, and lessons learned.
+- 📂 **Resources Provided:**
+  - **Incident Postmortem Learning Resource** 
+  - **Postmortem Template** 
 - 📄 **Key Deliverables:**  
   - **Postmortem_Report.pdf** (Detailed Incident Report)  
-  - **[Task 4 Folder](https://github.com/sumitgiri87/Cybersecurity/tree/main/Forage-Projects/Telstra-Cybersecurity-Simulation/Task-4_Incident-Postmortem)**  
+- 📁 **All resources and deliverables are available in the [Task 4 Folder](https://github.com/sumitgiri87/Cybersecurity/tree/main/Forage-Projects/Telstra-Cybersecurity-Simulation/Task-4_Incident-Postmortem)**  
+
 
 ---
 
