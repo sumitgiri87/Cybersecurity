@@ -1,14 +1,15 @@
 ****Incident Response Plan, Playbook, and Policy****
 
+
+****Project Overview****
+This project, part of the **Lighthouse Labs Cybersecurity Bootcamp**, involves developing a comprehensive **Incident Response Plan (IRP)**, supporting playbooks, and related policies aligned with the **NIST 7-step Incident Response framework**. The policies and playbooks aim to guide the organization through various cybersecurity incidents, including **malware outbreaks, data breaches**, and **employee terminations**. The policies focus on effective response, risk mitigation, and compliance, ensuring the organization is well-prepared for potential security incidents.
+
 ****Tech Stack****
 - **NIST Framework**  
 - **Incident Response Team (CSIRT)**  
 - **IR Playbook**  
 - **IR Policy**
-
-****Project Overview****
-This project, part of the **Lighthouse Labs Cybersecurity Bootcamp**, involves developing a comprehensive **Incident Response Plan (IRP)**, supporting playbooks, and related policies aligned with the **NIST 7-step Incident Response framework**. The policies and playbooks aim to guide the organization through various cybersecurity incidents, including **malware outbreaks, data breaches**, and **employee terminations**. The policies focus on effective response, risk mitigation, and compliance, ensuring the organization is well-prepared for potential security incidents.
-
+- 
 ****Folder Contents****
 - **Incident Response Plan and Policy Set (PDF):** The full Incident Response Plan document detailing the process, team structure, and responsibilities for handling incidents. This outlines high-level policies based on different playbooks, defining objectives, security importance, roles, and consequences of non-compliance.
 - **README.md:** This file containing a project summary and important details.
