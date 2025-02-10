@@ -1,4 +1,3 @@
-
 # ****Incident Response Report: Premium House Lights Inc.****
 
 ## ****Project Overview****
@@ -12,7 +11,18 @@ The security team conducted an ****incident investigation****, analyzing:
 - ****Server and database logs****  
 - ****Authentication and session logs****  
 
-Findings confirmed a ****structured cyberattack****, where adversaries exploited ****web application vulnerabilities**** to gain access, escalate privileges, and ****exfiltrate customer data.****  
+Findings confirmed a ****structured cyberattack****, where adversaries exploited ****web application vulnerabilities**** to gain access, escalate privileges, and ****exfiltrate customer data.****
+
+****Tech Stack:****
+- **Web Shell**
+- **MySQL**
+- **Web Server Logs**
+- **Network Forensics**
+- **FTK Imager**
+- **Wireshark**
+- **Registry Explorer**
+- **VirusTotal**
+- **AlienVault Intelligence**
 
 ## ****Key Objectives****
 - ****Analyze**** attack methods and indicators of compromise (IoCs).  
@@ -37,4 +47,4 @@ This project highlights the importance of ****proactive security measures****, i
 ✅ ****Incident response planning**** for rapid mitigation of security threats.  
 
 ## ****Acknowledgments****
-This project was completed as part of the ****Lighthouse Labs Cybersecurity Bootcamp****, with guidance from ****instructors and peers****.  
+This project was completed as part of the ****Lighthouse Labs Cybersecurity Bootcamp****, with guidance from ****instructors and peers****.
