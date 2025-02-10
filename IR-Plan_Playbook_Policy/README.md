@@ -9,7 +9,7 @@ This project, part of the **Lighthouse Labs Cybersecurity Bootcamp**, involves d
 - **Incident Response Team (CSIRT)**  
 - **IR Playbook**  
 - **IR Policy**
-- 
+  
 ****Folder Contents****
 - **Incident Response Plan and Policy Set (PDF):** The full Incident Response Plan document detailing the process, team structure, and responsibilities for handling incidents. This outlines high-level policies based on different playbooks, defining objectives, security importance, roles, and consequences of non-compliance.
 - **README.md:** This file containing a project summary and important details.
