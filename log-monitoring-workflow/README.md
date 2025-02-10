@@ -3,6 +3,14 @@
 ****Overview****
 This project, part of the **Lighthouse Labs Cybersecurity Bootcamp**, demonstrates how to apply **Bash and Python scripting** to a **real-world cybersecurity scenario** by automating log monitoring and anomaly detection. The solution establishes a workflow to monitor network traffic for unusual activity, such as **failed login attempts and critical HTTP errors (404, 401, 500)**, ensuring proactive security response and compliance.
 
+****Tech Stack:****
+- **Bash**  
+- **Python**  
+- **Cron**  
+- **Linux Access Logs**  
+- **HTTP Error Patterns**  
+- **Email Alert Automation**
+
 ****Scenario****
 
 ****Company Profile****
@@ -66,3 +74,4 @@ As an **Access Log Analyst** at Turn a New Leaf, your **primary responsibility**
 - **Logs:** The logs for this project are located in the **/assets** subfolder with the files **extracted_access_log.txt** and **report_log.txt**.
 - **Python Scripts:** The Python scripts used for log analysis and anomaly detection are located in the **/code** subfolder.
 - **Final Deliverable:** The final report summarizing the results of the project can be found in **Final_Report.pdf** in this folder.
+
