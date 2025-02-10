@@ -3,16 +3,6 @@
 ## ****Project Overview****
 This project is part of the ****Lighthouse Labs Cybersecurity Capstone****, focusing on ****incident response and forensic analysis**** following a simulated data breach at ****Premium House Lights Inc.**** The investigation involves analyzing security logs, network traffic captures, and forensic artifacts to determine the ****attack vector, impact, and mitigation strategies.****
 
-## ****Scenario Summary****
-On ****February 22, 2022****, Premium House Lights Inc. received an ****extortion email**** claiming attackers had exfiltrated ****customer data**** and would release it unless a ****10 BTC ransom**** was paid. The company was uncertain if the claims were valid or if a ****breach had occurred.****
-
-The security team conducted an ****incident investigation****, analyzing:  
-- ****Network traffic (PCAP files)****  
-- ****Server and database logs****  
-- ****Authentication and session logs****  
-
-Findings confirmed a ****structured cyberattack****, where adversaries exploited ****web application vulnerabilities**** to gain access, escalate privileges, and ****exfiltrate customer data.****
-
 ****Tech Stack:****
 - **Web Shell**
 - **MySQL**
@@ -23,6 +13,17 @@ Findings confirmed a ****structured cyberattack****, where adversaries exploited
 - **Registry Explorer**
 - **VirusTotal**
 - **AlienVault Intelligence**
+
+## ****Scenario Summary****
+On ****February 22, 2022****, Premium House Lights Inc. received an ****extortion email**** claiming attackers had exfiltrated ****customer data**** and would release it unless a ****10 BTC ransom**** was paid. The company was uncertain if the claims were valid or if a ****breach had occurred.****
+
+The security team conducted an ****incident investigation****, analyzing:  
+- ****Network traffic (PCAP files)****  
+- ****Server and database logs****  
+- ****Authentication and session logs****  
+
+Findings confirmed a ****structured cyberattack****, where adversaries exploited ****web application vulnerabilities**** to gain access, escalate privileges, and ****exfiltrate customer data.****
+
 
 ## ****Key Objectives****
 - ****Analyze**** attack methods and indicators of compromise (IoCs).  
