@@ -1,6 +1,9 @@
-# Cybersecurity Projects Repository
+# **Cybersecurity Projects Repository**  
 
-Welcome to my **Cybersecurity Projects Repository**, a collection of hands-on projects showcasing my expertise in cybersecurity. This repository includes practical work covering **network security, log monitoring, incident response, risk management, forensics, and threat analysis**. Each project folder contains a detailed **final report**, supporting documentation, and methodologies used.
+Welcome to my **Cybersecurity Projects Repository**, a collection of hands-on projects showcasing my expertise in cybersecurity. These projects were completed as part of the **Lighthouse Labs Immersive Cybersecurity Bootcamp**, funded by **Upskill Canada**.  
+
+This repository includes practical work covering **network security, log monitoring, incident response, risk management, forensics, and threat analysis**. Each project folder contains a detailed **final report**, supporting documentation, and methodologies used.  
+
 
 ## Repository Structure
 
