@@ -14,7 +14,7 @@ For this task, we are required to create an incident postmortem detailing the ti
 2. **Task Brief**: Create a comprehensive postmortem of the incident. Include a detailed timeline, root cause analysis, and the response actions taken.
 4. **Task Resources**:
    - [What is an Incident Postmortem](https://www.pagerduty.com/resources/learn/incident-postmortem/)
-   - Postmortem Template (in /recourses folder)
+   - Postmortem Template (in /resources folder)
 
 ## Deliverables
 - A detailed postmortem document that includes the following:
