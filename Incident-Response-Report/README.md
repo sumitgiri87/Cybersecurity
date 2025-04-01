@@ -48,4 +48,4 @@ This project highlights the importance of ****proactive security measures****, i
 ✅ ****Incident response planning**** for rapid mitigation of security threats.  
 
 ## ****Acknowledgments****
-This project was completed as part of the ****Lighthouse Labs Cybersecurity Bootcamp****, with guidance from ****instructors and peers****.
+This project was completed as part of the ****Lighthouse Labs Cybersecurity Program****.
