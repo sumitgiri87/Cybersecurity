@@ -1,0 +1,14 @@
+# Ignore .env file containing sensitive data
+.env
+
+# Ignore virtual environment directory
+.venv/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore IDE-specific or OS-specific files
+.vscode/
+.DS_Store
+Thumbs.db

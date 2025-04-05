@@ -3,7 +3,7 @@ import time
 import subprocess
 
 # Path to the log parsing script
-LOG_PARSING_SCRIPT = 'log_parsing.py'  
+LOG_PARSING_SCRIPT = 'code/log_parsing.py'  
 
 def run_log_parsing(scheduler):
     # Schedule the next call first

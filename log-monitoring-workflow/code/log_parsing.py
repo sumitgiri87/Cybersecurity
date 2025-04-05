@@ -4,20 +4,21 @@ from datetime import datetime, timedelta
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+from dotenv import load_dotenv
 
+# Load environment variables from .env file
+load_dotenv()
 # Extracted log file path in shared
-LOG_FILE_PATH = r"C:\Users\kakai\Documents\Canada Job Search\Cryptography & CyberSecurity\LHL Bootcamp\test\Linux\linux_log\extracted_access_log.txt"
+LOG_FILE_PATH = os.getenv('LOG_FILE_PATH')
 
 # Path for the report file in the same folder as the log file
-REPORT_FILE_PATH = os.path.join(os.path.dirname(LOG_FILE_PATH), 'report_log.txt')
+REPORT_FILE_PATH = os.getenv('REPORT_FILE_PATH')
 
 THRESHOLD_404 = 5  # Number of 404 errors to trigger alarm
 THRESHOLD_401 = 3  # Number of 401 errors to trigger alarm
 THRESHOLD_500 = 5  # Number of 500 errors to trigger alarm
 TIME_SPAN = timedelta(minutes=10)  # Time window for detecting multiple errors
-ALERT_EMAIL = "sumit.giri199@gmail.com"  # Recipient email
-SENDER_EMAIL = "sumitgiridrive5@gmail.com"  # Sender email
-SENDER_PASSWORD = "blkgfmqjthmiwikj"  # Sender email's app password
+
 
 # Function to send an alert email
 def send_email_alert(recent_errors):

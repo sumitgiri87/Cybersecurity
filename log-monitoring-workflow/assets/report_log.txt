@@ -27,3 +27,8 @@
 2024-12-18 18:53:42.359072: Errors are under control: {'404 Errors': [], '401 Errors': [], '500 Errors': []}
 2024-12-18 18:56:59.841899: Errors are under control: {'404 Errors': [], '401 Errors': [], '500 Errors': []}
 2024-12-18 18:57:10.558245: Log file not found at C:\Users\kakai\Documents\Canada Job Search\Cryptography & CyberSecurity\LHL Bootcamp\test\Linux\linux_log\extracted_log.txt
+2025-04-05 13:01:35.462018: Errors are under control: {'404 Errors': [], '401 Errors': [], '500 Errors': []}
+2025-04-05 13:02:25.602880: Errors are under control: {'404 Errors': [], '401 Errors': [], '500 Errors': []}
+2025-04-05 13:08:43.211136: Errors are under control: {'404 Errors': [], '401 Errors': [], '500 Errors': []}
+2025-04-05 13:09:43.221837: Errors are under control: {'404 Errors': [], '401 Errors': [], '500 Errors': []}
+2025-04-05 13:42:59.578971: Errors are under control: {'404 Errors': [], '401 Errors': [], '500 Errors': []}
