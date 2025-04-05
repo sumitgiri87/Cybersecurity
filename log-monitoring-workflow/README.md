@@ -1,53 +1,101 @@
-****Log Monitoring Workflow****
+# 📄 Log Monitoring Workflow
 
-****Overview****
-This project, part of the **Lighthouse Labs Cybersecurity Bootcamp**, demonstrates how to apply **Bash and Python scripting** to a **real-world cybersecurity scenario** by automating log monitoring and anomaly detection. The solution establishes a workflow to monitor network traffic for unusual activity, such as **failed login attempts and critical HTTP errors (404, 401, 500)**, ensuring proactive security response and compliance.
+## 📘 Overview
 
-****Tech Stack:****
-- **Bash**  
-- **Python**  
-- **Cron**  
-- **Linux Access Logs**  
-- **HTTP Error Patterns**  
-- **Email Alert Automation**
+This project, developed as part of the **Lighthouse Labs Cybersecurity Bootcamp**, demonstrates how **Bash and Python scripting** can be applied to a **real-world cybersecurity scenario**. It automates log monitoring and anomaly detection to ensure proactive threat response and compliance.
 
-****Scenario****
+The solution monitors server logs for unusual activity—such as **failed login attempts**, **unauthorized access (401 errors)**, **web scraping or broken links (404 errors)**, and **server failures (500 errors)**—and sends automated alerts when thresholds are exceeded.
 
-****Company Profile****
-**Turn a New Leaf** is a **medium-sized non-profit organization** that supports youth in rural communities to find employment. To comply with **government regulations**, members must log in every **Thursday** to update their employment status and job search activities. The organization’s network consists of **both Windows and Linux machines**, with **two Linux-based web servers** handling user authentication and job listing submissions.
+---
 
-****The Security Request****
-As an **Access Log Analyst** at Turn a New Leaf, your **primary responsibility** is to monitor **server logs for unusual activity** and send alerts if an unusual number of failed logins occur. Additionally, you must **document** and provide **weekly updates via email** to ensure compliance and network security.
+## 🛠 Tech Stack
 
-****Key Security Risks****
-🚨 **Failed Login Attempts** – May indicate **brute-force attacks** or **unauthorized access attempts**.  
-🚨 **HTTP 401 Errors (Unauthorized)** – Could suggest issues with **user authentication** or **unauthorized access attempts**.  
-🚨 **HTTP 404 Errors (Not Found)** – Might indicate **web scraping**, **broken links**, or **malicious scanning**.  
-🚨 **HTTP 500 Errors (Server Errors)** – Could reflect **server misconfigurations**, **system crashes**, or **denial-of-service (DoS) attacks**.
+- 🐚 **Bash**
+- 🐍 **Python**
+- ⏰ **Cron Jobs**
+- 🐧 **Linux Access Logs**
+- 🌐 **HTTP Error Detection**
+- 📧 **Email Alert Automation**
 
-****Project Objectives****
-✅ **Automate log extraction** from Linux web servers.  
-✅ **Analyze logs for suspicious activity**, including failed logins and HTTP errors.  
-✅ **Send automated alerts** when error thresholds are exceeded.  
-✅ **Provide structured reports** for historical analysis and compliance.
+---
 
-****Workflow Structure****
+## 🏢 Scenario: Turn a New Leaf
 
-****1️⃣ Log Extraction (Bash Script)****
-- A **Bash script** retrieves logs from **Linux access and error logs**.  
-- Extracted logs are stored in the `/assets/` subfolder, in files **extracted_access_log.txt** and **report_log.txt**.
+### 👥 Company Profile
 
-****2️⃣ Log Analysis & Anomaly Detection (Python Scripts)****
-- **Python scripts** process logs to identify:  
-  🔹 **Failed login attempts**  
-  🔹 **Unauthorized access (HTTP 401 errors)**  
-  🔹 **Web scraping attempts (HTTP 404 errors)**  
-  🔹 **Server failures (HTTP 500 errors)**  
-- If error thresholds are exceeded, an **alert log** is generated in the `/assets/` subfolder.
+**Turn a New Leaf** is a **medium-sized non-profit organization** supporting youth in rural communities with employment opportunities. 
 
-****3️⃣ Automated Alerts & Reporting****
-- **Email notifications** are sent when security anomalies are detected.  
-- **Weekly reports** summarizing network activity and security risks are generated.
+- Members must log in **every Thursday** to update their employment status.
+- The organization uses a **mixed network** with both Windows and Linux machines.
+- **Two Linux-based web servers** handle user authentication and job listing submissions.
+
+### 🔒 The Security Request
+
+As an **Access Log Analyst** at Turn a New Leaf, your responsibilities include:
+
+- Monitoring **web server logs** for suspicious activity.
+- Sending **alerts** if an unusual number of **failed logins** or **critical errors** occur.
+- Providing **weekly email summaries** for compliance and oversight.
+
+---
+
+## ⚠️ Key Security Risks
+
+- 🚨 **Failed Login Attempts** – Could indicate brute-force attacks or unauthorized access.
+- 🚨 **HTTP 401 Errors (Unauthorized)** – May suggest authentication failures or privilege abuse.
+- 🚨 **HTTP 404 Errors (Not Found)** – Often linked to web scraping, broken links, or recon scans.
+- 🚨 **HTTP 500 Errors (Server Errors)** – Could be signs of server misconfiguration, crashes, or DoS attacks.
+
+---
+
+## 🎯 Project Objectives
+
+- ✅ **Automate log extraction** from Linux web servers.
+- ✅ **Analyze server logs** for failed logins and critical HTTP errors.
+- ✅ **Trigger email alerts** when anomaly thresholds are exceeded.
+- ✅ **Generate weekly reports** for security and compliance reviews.
+
+---
+
+## 🔁 Workflow Structure
+
+### 1️⃣ Log Extraction (`/log_extraction/`)
+
+- A **Bash script** collects access and error logs from Linux web servers.
+- A sample **cron job** is provided to automate the script execution on a schedule.
+- Extracted logs are saved as: `/assets/extracted_access_log.txt`
+- Logs are continuously parsed and analyzed using Python for real-time anomaly detection.
+
+
+### 🚨 2️⃣ Log Analysis & Anomaly Detection (Python Scripts)
+
+This project includes Python scripts to automate log file analysis and detect common security anomalies.
+
+### 🔍 Features
+
+- `log_parsing.py` (located in the `/code/` folder) processes server logs to identify:
+  - ❌ **Failed login attempts**
+  - 🔐 **Unauthorized access** (HTTP 401 errors)
+  - 🤖 **Web scraping attempts** (HTTP 404 errors)
+  - ⚠️ **Server failures** (HTTP 500 errors)
+
+- `run_log_parsing.py` (also in `/code/`) can be scheduled to run periodically, automating the log analysis process.
+
+- Alternatively, `run_log_parsing.sh` (in the root directory) is a Bash script version that can be used for scheduling via cron jobs or other task schedulers.
+
+- If error thresholds are exceeded:
+  - An **alert log** is saved in the `/assets/` directory.
+  - An **automated email** is sent to notify stakeholders.
+
+- A screenshot of the alert email is available in `/assets/screenshots/`.
+
+
+### 📬 3️⃣ Automated Alerts & Reporting
+
+- ✉️ **Email notifications** are triggered whenever suspicious activity is detected.
+- 📊 **Weekly summary reports** are generated to provide insights into overall network activity and potential security issues.
+
+---
 
 ****Tools & Technologies Used****
 🛠 **Bash** – Extract logs from Linux servers.  
