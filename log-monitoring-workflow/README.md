@@ -97,23 +97,23 @@ This project includes Python scripts to automate log file analysis and detect co
 
 ---
 
-****Tools & Technologies Used****
+****Tools & Technologies Used****  
 🛠 **Bash** – Extract logs from Linux servers.  
 🛠 **Python** – Analyze log data for anomalies.  
 🛠 **Cron Jobs** – Automate script execution at scheduled intervals.  
 🛠 **Email Alerts** – Notify administrators of unusual activity.
 
-****Expected Output****
+****Expected Output****  
 📌 **Real-time alerts** when suspicious activity is detected.  
 📌 **Detailed logs of security events**, including timestamps and affected IP addresses.  
 📌 **Comprehensive weekly reports** summarizing system activity and security insights.
 
-****Key Features****
+****Key Features****  
 ✔ **Automated Execution:** Cron jobs ensure continuous monitoring.  
 ✔ **Historical Data Storage:** Retains records for long-term security analysis.  
 ✔ **Scalability:** Potential to integrate **machine learning for anomaly detection**.
 
-****Potential Enhancements****
+****Potential Enhancements****  
 🔹 Expanding log analysis to include additional **Indicators of Compromise (IoCs)**.  
 🔹 Enhancing **real-time anomaly detection** with **machine learning models**.  
 🔹 Integrating with **SIEM (Security Information and Event Management) solutions**.
