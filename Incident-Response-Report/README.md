@@ -34,6 +34,18 @@ Findings confirmed a ****structured cyberattack****, where adversaries exploited
 ## ****Repository Contents****
 - ****README.md**** – Project description (this file).  
 - ****Final_Report.pdf**** – Detailed report with forensic analysis, attack timeline, and security recommendations.  
+- ****artifacts/**** – Investigation artifacts provided by Premium House Lights Inc., including:  
+  - ****phl_network_diagram.png**** – Company network diagram.  
+  - ****phl_webserver.pcap**** – Web server packet capture.  
+  - ****phl_database.pcap**** – Database packet capture.  
+  - ****phl_access_log.txt**** – Application access logs.  
+  - ****phl_database_shell.txt**** – Session logs from database shell activity.  
+  - ****phl_database_access_log.txt_**** – Database access logs.  
+  - ****phl_database_tables.db**** – Extracted database table data.  
+- ****report_screenshots/**** – Screenshots from different stages of the investigation process.  
+- ****templates/**** – Templates used for incident response reporting.  
+- ****project_demo_ppt.pdf**** – Presentation slides demonstrating key aspects of the investigation.
+
 
 ## ****Tools & Techniques Used****
 - ****Wireshark**** – Packet analysis for network traffic investigation.  
