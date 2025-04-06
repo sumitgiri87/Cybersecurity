@@ -137,18 +137,36 @@ Windows 2012 might be outdated, but its **end of life** isn’t until 2023. Desp
 That’s exactly the point of this training set! We will teach you how to approach this investigation, set up your environment, analyze artifacts, and then generate a comprehensive report.
 
 ---
-#### Artifacts Available:
+You can download the following artifacts for forensic investigation and verify file integrity:
 
-- **DC01 Disk Image (E01)**
-- **DC01 Memory and PageFile**
-- **DC01 Autoruns**
-- **DC01 Protected Files**
-- **Case001 PCAP**
-- **Desktop Disk Image (E01)**
-- **Desktop Memory and PageFile**
-- **Desktop Autoruns**
-- **Desktop Protected Files**
+- **[DC01 Disk Image (E01)](https://dfirmadness.com/case001/DC01-E01.zip)**  
+  MD5: `E57FC636E833C5F1AB58DFACE873BBDE`
+  
+- **DC01 [Memory](https://dfirmadness.com/case001/DC01-memory.zip) and [PageFile](https://dfirmadness.com/case001/DC01-pagefile.zip)**  
+  MD5 (Memory): `64A4E2CB47138084A5C2878066B2D7B1`  
+  MD5 (PageFile): `964EEAF0009D08CC101DE4A83A4E5D23`
 
+- **DC01 [Autoruns](https://dfirmadness.com/case001/DC01-autorunsc.zip)**  
+  MD5: `964F2D710687D170C77C94947DA29E66`
+
+- **DC01 [Protected Files](https://dfirmadness.com/case001/DC01-ProtectedFiles.zip)**  
+  MD5: `AD29830A583EFE49C8C1C35FAFFD264F`
+
+- **Case001 [PCAP](https://dfirmadness.com/case001/case001-pcap.zip)**  
+  MD5: `422046B753CF8A4DF49D2C4CE892DB16`
+
+- **Desktop [Disk Image (E01)](https://dfirmadness.com/case001/DESKTOP-E01.zip)**  
+  MD5: `71C5C3509331F472ABCDF81EB6EFFF07`
+
+- **Desktop [Memory](https://dfirmadness.com/case001/DESKTOP-SDN1RPT-memory.zip) and [PageFile](https://dfirmadness.com/case001/Desktop-SDN1RPT-pagefile.zip)**  
+  MD5 (Memory): `CF31E2635C77811AAA1BB04A92A721E2`  
+  MD5 (PageFile): `45C096F2688A0B5DE0346FB72391B245`
+
+- **Desktop [Autoruns](https://dfirmadness.com/case001/DESKTOP-SDN1RPT-autorunsc.zip)**  
+  MD5: `3627DCAFA54E1365489A4EC0CC3D6A1C`
+
+- **Desktop [Protected Files](https://dfirmadness.com/case001/DESKTOP-SDN1RPT-Protected%20Files.zip)**  
+  MD5: `3E1A358D50003A9351AC2160AE6F0495`
 ----
 
 ### 🎮 Let’s Get Forensic!
@@ -163,8 +181,6 @@ I hope you find this project informative, engaging, and maybe even a little humo
 - **README.md** – This file, providing an overview of the project.
 - **Final Report (PDF)** – The complete forensic investigation report detailing methodology, findings, and recommendations.
 - **Screenshots** – A collection of screenshots documenting key findings and the investigative process.
-- **Artifacts** – A subfolder containing key forensic artifacts related to the case, including disk images, memory dumps, and other critical data. This folder also includes an MD5 hash list for verifying the integrity of each file.
-- **Autopsy** – A subfolder containing analysis and results from the Autopsy tool, including detailed case data and timelines.
 
 
 
@@ -193,9 +209,6 @@ The forensic analysis followed industry-standard best practices to ensure accura
 - **Answer Format:** All findings are documented with **screenshots**, **tool outputs**, and **detailed justifications**.
 - **Report Submission:** The final report is formatted in a **professional forensic documentation style**.
 
-## 🔗 Additional Resources
-- **Case Details & Artifacts:** [DFIR Madness - Case 001](https://dfirmadness.com/the-stolen-szechuan-sauce/)
-- **Super Timeline Analysis:** [Super Timeline Guide](https://dfirmadness.com/case-001-super-timeline-analysis/)
 
 ---
 
