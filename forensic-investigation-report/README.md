@@ -44,7 +44,7 @@ Feel free to use this repository for educational purposes, as long as credit is 
 ### ⚙️ Game-isms
 As with any training exercise, there are intentional quirks in the data and events. The timeline may appear compressed at times, and some activities may seem a bit outlandish, but these are designed to support the learning experience. Despite the humorous elements, the attack closely mirrors real-world adversary tactics, techniques, and procedures.
 
-The goal here was to balance serious forensic work with a fun, interactive case study that would allow me to apply my skills while enjoying the journey. And, let's face it—tracking down a stolen Szechuan sauce recipe isn’t something you get to do every day!
+The goal here was to balance serious forensic work with a fun, interactive case study that would allow me to apply my skills while enjoying the journey. And, let's face it—tracking down a stolen Szechuan sauce recipe isn’t something you get to do every day! 
 
 ---
 
