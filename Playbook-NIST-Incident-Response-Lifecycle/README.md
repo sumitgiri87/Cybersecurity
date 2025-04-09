@@ -61,5 +61,5 @@ The methodology for creating the incident response playbook was based on the fol
 
 This playbook aims to ensure that Box can respond effectively to any cybersecurity incident, with a clear focus on escalating issues to the right individuals at the right time. By following the **NIST Incident Response Lifecycle** and applying industry best practices, the playbook ensures that Box can minimize the impact of incidents and quickly return to normal operations.
 
-Feel free to explore the contents of this repository, and if you have any questions or suggestions, feel free to open an issue or reach out.
+Feel free to explore the contents of this repository, and if you have any questions or suggestions, feel free to open an issue or reach out.  
 
