@@ -23,5 +23,5 @@ This repository contains:
 
 ## Executive Summary
 
-The **Risk Management Plan** outlines the identification, assessment, and treatment of DHAEI's key cybersecurity risks. The primary focus is on ensuring data protection, securing remote work environments, and safeguarding critical assets from cyber threats. The plan meets DHAEI's technical, security, and user requirements, ensuring business continuity and protection from emerging risks.
+The **Risk Management Plan** outlines the identification, assessment, and treatment of DHAEI's key cybersecurity risks. The primary focus is on ensuring data protection, securing remote work environments, and safeguarding critical assets from cyber threats. The plan meets DHAEI's technical, security, and user requirements, ensuring business continuity and protection from emerging risks. 
 
