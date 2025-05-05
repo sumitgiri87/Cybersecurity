@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project involves developing a **Risk Management Plan** for DHA Enterprise Inc. (DHAEI) using the **ISO 27001 Risk Management Framework**. The plan identifies, assesses, and treats risks related to DHAEI's cybersecurity infrastructure. Key threats include data breaches, ransomware, and insider threats, with mitigation strategies based on industry frameworks such as **NIST NVD** and **MITRE ATT&CK**.
+This project involves developing a **Risk Management Plan** for DHA Enterprise Inc. (DHAEI) using the **ISO 27001 Risk Management Framework**. The plan identifies, assesses, and treats risks related to DHAEI's cybersecurity infrastructure. Key threats include data breaches, ransomware, and insider threats, with mitigation strategies based on industry frameworks such as **NIST NVD** and **MITRE ATT&CK**. 
 
 ## Scenario & Context
 
