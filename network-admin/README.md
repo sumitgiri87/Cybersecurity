@@ -13,7 +13,7 @@ This project focuses on **network reconnaissance and documentation** within a co
 - **Nmap** – Network scanning, OS detection, and service enumeration.
 - **Wireshark** – Packet capture and traffic analysis.
 - **Virtual Machines (VMs)** – Windows, Linux, and Kali OpenVAS instances for testing.
-- **Zenmap** – GUI-based visualization of scan results.
+- **Zenmap** – GUI-based visualization of scan results. 
 
 ## Project Breakdown
 
