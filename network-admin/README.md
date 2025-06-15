@@ -39,9 +39,8 @@ This project focuses on **network reconnaissance and documentation** within a co
 - **Network topology diagram** with proposed segmentation for security improvements.
 
 ## Why This Project Matters
-Effective **network reconnaissance and monitoring** are crucial in cybersecurity operations. This project demonstrates **proficiency in network scanning, analysis, and reporting**, key skills for **cybersecurity analysts, SOC teams, and penetration testers**.
+Effective **network reconnaissance and monitoring** are crucial in cybersecurity operations. This project demonstrates **proficiency in network scanning, analysis, and reporting**, key skills for **cybersecurity analysts, SOC teams, and penetration testers**. 
 
 ---
 
 For further details, refer to the **full project report** available in this repository.
-
