@@ -30,7 +30,7 @@ The projects in this repository cover a variety of cybersecurity domains, includ
 
 ## 📬 Contact
 
-If you have any questions or feedback, feel free to reach out! 
+If you have any questions or feedback, feel free to reach out!
 
 📫 **[LinkedIn](https://www.linkedin.com/in/sumit-giri-0111/)** 
 
