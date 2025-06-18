@@ -17,7 +17,7 @@ The scenario involves a potential cybersecurity breach, and the client (Box) rel
 The purpose of this playbook is to provide a structured response plan for Box, ensuring that the company can effectively handle potential breaches. The playbook is based on the **NIST Incident Response Lifecycle** and incorporates guidelines from **CISA** on developing incident response playbooks. This methodology ensures that Box's response to cybersecurity incidents is well-coordinated, timely, and minimizes damage.
 
 ### Key Elements in the Playbook:
-- **Incident Identification and Triggers**: Focuses on detecting potential threats and understanding when an incident requires escalation.
+- **Incident Identification and Triggers**: Focuses on detecting potential threats and understanding when an incident requires escalation. 
 - **Roles and Responsibilities**: Outlines the specific responsibilities of individuals involved, including Box's internal team (CEO, production manager, IT support, etc.) and external third-party provider (Cat).
 - **Escalation Procedures**: Defines when and how incidents should be escalated to relevant parties, ensuring that urgent issues are promptly addressed.
 
