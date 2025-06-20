@@ -4,7 +4,7 @@
 
 This project involves developing a **Risk Management Plan** for DHA Enterprise Inc. (DHAEI) using the **ISO 27001 Risk Management Framework**. The plan identifies, assesses, and treats risks related to DHAEI's cybersecurity infrastructure. Key threats include data breaches, ransomware, and insider threats, with mitigation strategies based on industry frameworks such as **NIST NVD** and **MITRE ATT&CK**. 
 
-## Scenario & Context
+## Scenario & Context 
 
 DHAEI is a software development company that provides internet services and solutions to small office/home office (SOHO) clients. The company operates a mix of on-premises and cloud infrastructure, with offices in Oshawa and branch offices across Ontario. The project addresses risks in the company's technical, security, and user requirements.
 
