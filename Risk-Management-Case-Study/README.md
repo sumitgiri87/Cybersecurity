@@ -12,7 +12,7 @@ DHAEI is a software development company that provides internet services and solu
 
 This repository contains:
 
-- **/Final_Report.pdf**: The Risk Management Plan for DHAEI, detailing risk assessments, treatment methodologies, and mitigations.
+- **/Final_Report.pdf**: The Risk Management Plan for DHAEI, detailing risk assessments, treatment methodologies, and mitigations. 
 - **/README.md**: This README file, summarizing the project, scenario, and contents.
 
 ## Methodology
