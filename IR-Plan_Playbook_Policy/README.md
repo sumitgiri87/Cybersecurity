@@ -16,7 +16,7 @@ All materials are aligned with the **NIST 7-step Incident Response Framework**, 
 
 ### 🧠 Realistic & Research-Based
 
-To make this project feel real—not just theoretical—I researched Canadian Tire’s governance and operational structure. That helped shape the **CSIRT (Cybersecurity Incident Response Team)** with roles, responsibilities, and escalation paths that reflect how a large, distributed organization actually works in practice. 
+To make this project feel real—not just theoretical—I researched Canadian Tire’s governance and operational structure. That helped shape the **CSIRT (Cybersecurity Incident Response Team)** with roles, responsibilities, and escalation paths that reflect how a large, distributed organization actually works in practice.
 
 ---
 
