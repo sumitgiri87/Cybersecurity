@@ -26,7 +26,7 @@ This project focuses on **network reconnaissance and documentation** within a co
 - Compiled findings into a **detailed report**, including:
   - **Device inventory** with key attributes (hostname, OS, open ports).
   - **Traffic analysis screenshots** from Wireshark with explanations.
-  - **Topology diagram** illustrating network segmentation and security recommendations.
+  - **Topology diagram** illustrating network segmentation and security recommendations. 
 
 ## Learning Outcomes
 - **Network mapping & documentation** – Structured identification and reporting of network assets.
